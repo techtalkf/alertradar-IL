@@ -4,6 +4,10 @@
 
 AlertRadar is an analytical system that monitors and predicts missile alerts in Israel. It aggregates data from official sources, news feeds, and user-submitted reports to calculate risk levels for different cities and regions.
 
+## Screenshot
+
+![AlertRadar Screenshot](assets/example1.png)
+
 ---
 
 ## Features
