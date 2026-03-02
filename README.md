@@ -1,13 +1,27 @@
-# AlertRadar
+<p align="center">
+  <img src="assets/alertradar_logo.png" alt="AlertRadar Logo" width="120">
+</p>
 
-**Real-time missile risk analysis & alerts for Israel**  
+<h1 align="center">AlertRadar</h1>
+
+<p align="center">
+Real-time missile risk analysis & alert prediction for Israel
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/status-active-success">
+  <img src="https://img.shields.io/badge/platform-web-blue">
+  <img src="https://img.shields.io/badge/license-MIT-green">
+</p>
 
 AlertRadar is an analytical system that monitors and predicts missile alerts in Israel. It aggregates data from official sources, news feeds, and user-submitted reports to calculate risk levels for different cities and regions.
 
-## Screenshot
+## Screenshots
 
-![AlertRadar Screenshot](assets/example1.png)
-
+<p align="center">
+  <img src="assets/example1.png" width="70%" alt="AlertRadar Desktop Interface">
+  <img src="assets/example2.png" width="20%" alt="AlertRadar Mobile Interface">
+</p>
 ---
 
 ## Features
