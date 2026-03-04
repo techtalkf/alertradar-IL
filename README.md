@@ -2,7 +2,7 @@
   <img src="assets/alertradar_logo.png" alt="AlertRadar Logo" width="120">
 </p>
 
-<h1 align="center">AlertRadar</h1>
+<h1 align="center">RadarAdom</h1>
 
 <p align="center">
 Real-time missile risk analysis & alert prediction for Israel
@@ -14,7 +14,7 @@ Real-time missile risk analysis & alert prediction for Israel
   <img src="https://img.shields.io/badge/license-MIT-green">
 </p>
 
-AlertRadar is an analytical system that monitors and predicts missile alerts in Israel. It aggregates data from official sources, news feeds, and user-submitted reports to calculate risk levels for different cities and regions.
+RadarAdom is an analytical system that monitors and predicts missile alerts in Israel. It aggregates data from official sources, news feeds, and user-submitted reports to calculate risk levels for different cities and regions.
 
 ## Screenshots
 
